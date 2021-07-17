@@ -1,4 +1,7 @@
 # ProxyBuilder
+
+![demo gif](./demo.gif)
+
 ## Description
 
 ProxyBuilder is a typescript builder that uses typing to suggest and control available input and output properties on a builder class data.
