@@ -1,0 +1,15 @@
+{
+  "name": "proxybuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "prepublish": "./node_modules/.bin/tsc"
+  },
+  "author": "marzetz",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
